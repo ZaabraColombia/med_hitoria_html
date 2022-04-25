@@ -49,7 +49,7 @@ Version:	1.1
 	Global CSS 
 ===============================*/
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 	font-weight: 400;
 	font-size:14px;
 	color:#888;
@@ -224,7 +224,7 @@ body{
 	color:#1A76D1;
 }
 .header .top-contact li i{
-	color:#1A76D1;
+	color:#1DBFD6 !important;
 	margin-right:8px;
 }
 .header .header-inner {
@@ -534,7 +534,7 @@ body{
 	margin-top:150px;
 }
 .slider .single-slider h1 {
-	color: #2C2D3F;
+	color: #333333;
 	font-size: 38px;
 	font-weight: 700;
 	margin: 0;
@@ -564,7 +564,7 @@ body{
 	margin:0;
 }
 .slider .single-slider .btn.primary{
-	background:#2C2D3F;
+	background:#1DBFD6;
 	color:#fff;
 }
 .slider .single-slider .btn.primary:before{
@@ -836,7 +836,7 @@ body{
 	padding:120px 0;
 }
 .fun-facts{
-	background:url('https://via.placeholder.com/1600x350');
+	background:url("img/fun-bg.jpg");
 	background-size:cover;
 	background-repeat:no-repeat;
 }
@@ -942,7 +942,7 @@ body{
 .why-choose .choose-right{
 	height:100%;
 	width:100%;
-	background-image:url('https://via.placeholder.com/2000x1200');
+	background-image: url("img/video-bg.jpg");
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
@@ -1002,7 +1002,7 @@ body{
 	Start Call to action CSS
 =================================*/
 .call-action{
-	background-image:url('https://via.placeholder.com/2560x1200');
+	background-image:url("img/call-bg.jpg");
 	background-size:cover;
 	background-position:center;
 	position:relative;
@@ -1010,7 +1010,7 @@ body{
 }
 .call-action .content{
 	text-align:center;
-	padding:100px 265px;
+	padding:100px 200px;
 }
 .call-action .content h2{
 	color:#fff;
