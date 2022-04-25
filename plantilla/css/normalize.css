@@ -235,6 +235,7 @@ big {
 h1,h2,h3,h4,h5,h6{
 	font-weight:500;
 	color:#2C2D3F;
+	font-family: 'Quicksand', sans-serif;
 }
 a,button{
 	-webkit-transition:all 0.3s ease;
@@ -455,7 +456,7 @@ Preloader Area CSS
 	bottom: 0;
 	left: 0;
 	right: 0;
-	background: #2C2D3F;
+	background: #333333;
 	-webkit-transform: scaleX(0);
 	transform: scaleX(0);
 	-webkit-transform-origin: 50%;
@@ -483,7 +484,7 @@ Preloader Area CSS
 	text-transform: capitalize;
 	margin-bottom: 24px;
 	position: relative;
-	color: #2C2D3F;
+	color: #333333;
 }
 .section-title p{
 	font-size:15px;
@@ -506,7 +507,7 @@ Preloader Area CSS
 }
 /* Bread Crumbs */
 .breadcrumbs {
-	background-image: url('https://via.placeholder.com/1600x350');
+	background-image: url("../img/header.png");
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
