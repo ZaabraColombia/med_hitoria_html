@@ -1602,7 +1602,7 @@ body{
 	margin-bottom:0px;
 }
 .pricing-table .table-list li.cross i{
-	background:#aaaaaa;
+	background:#333333;
 }
 .pricing-table .table-list i {
 	font-size: 7px;
@@ -1671,7 +1671,7 @@ body{
 	Start Team CSS
 ======================*/ 
 .team{
-	background-image:url('https://via.placeholder.com/1920x1000');
+	background-image:url("img/Background.png");
 	background-size:cover;
 	background-position:center;
 	background-repeat:no-repeat;
