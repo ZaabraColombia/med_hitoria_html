@@ -875,7 +875,7 @@ body{
 .fun-facts .single-fun span {
 	color: #fff;
 	font-weight: 600;
-	font-size: 30px;
+	font-size: 25px;
 	position: relative;
 	display: block;
 	-webkit-transition: all 0.4s ease;
@@ -3473,7 +3473,7 @@ body{
 	Start Newsletter CSS
 ===========================*/  
 .newsletter{
-	background:#EDF2FF;
+	background:#f9f9f9;
 }
 .newsletter .subscribe-text{}
 .newsletter .subscribe-text h6{
