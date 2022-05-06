@@ -2943,7 +2943,7 @@ body{
 	overflow:hidden;
 }
 .register .register-left{
-	background-image: url(https://via.placeholder.com/1920x1200);
+	background-image: url("img/crear-cuenta.jpg");
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -2959,7 +2959,6 @@ body{
 	color: #333;
 	font-weight: 600;
 	line-height: 27px;
-	text-transform: capitalize;
 	margin-bottom: 12px;
 	padding-bottom: 20px;
 	text-align: left;
@@ -3186,7 +3185,6 @@ body{
 	color: #333;
 	font-weight: 600;
 	line-height: 27px;
-	text-transform: capitalize;
 	margin-bottom: 12px;
 	padding-bottom: 20px;
 	text-align: left;
