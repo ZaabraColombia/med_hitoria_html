@@ -4099,3 +4099,14 @@ body{
 /*=========================
 	End Footer CSS
 ===========================*/
+
+
+/*---Estilos adicionales---*/
+
+/*--listas de terminos--*/
+
+.lista{}
+
+.lista li{
+	list-style: circle;
+}
