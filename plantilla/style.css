@@ -355,7 +355,7 @@ body{
 }
 .header .single-widget p {
 	margin-bottom: 5px;
-	text-transform: capitalize;
+	/*text-transform: capitalize;*/
 }
 .header .single-widget.btn{
 	margin-left:0;
@@ -3957,7 +3957,7 @@ body{
 .footer .single-footer.f-link li a {
 	display: block;
 	color: #fff;
-	text-transform: capitalize;
+	/*text-transform: capitalize;*/
 	-webkit-transition: all 0.4s ease;
 	-moz-transition: all 0.4s ease;
 	transition: all 0.4s ease;
