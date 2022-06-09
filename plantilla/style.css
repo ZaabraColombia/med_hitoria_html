@@ -829,9 +829,7 @@ body{
 /*=======================
 	Start Fun Facts CSS
 =========================*/
-.fun-facts{
-	position:relative;
-}
+
 .fun-facts.section{
 	padding:120px 0;
 }
@@ -1003,7 +1001,7 @@ body{
 =================================*/
 .call-action{
 	background-image:url("img/call-bg.jpg");
-	background-size:cover;
+	background-size:auto;
 	background-position:center;
 	position:relative;
 	background-repeat:no-repeat;
